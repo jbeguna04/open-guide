@@ -28,7 +28,7 @@ One of the Creative Commons licenses that requires that proper attribution is gi
 #### Copyleft
 >  A style of licensing in which those redistributing the work are  required to do so under its original (or a compatible) license.  
 −[Libre Graphics Magazine](http://libregraphicsmag.com/ )
-
+sdfsdfsdf
 #### Creative Commons
 >   A suite of licenses designed to allow creators and users of works   flexibility beyond that offered in traditional copyright.  
 −[Libre Graphics Magazine](http://libregraphicsmag.com/ )
